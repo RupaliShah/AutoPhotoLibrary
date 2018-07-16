@@ -4,7 +4,7 @@
   <img width="700" height="350" src="auto_photo_img.jpg">
 </p>
 
-Turn your digital photos into an organized Photo Gallery. Upload your folder of pictures to the Auto Photo Library, and with the click of a button, the pictures will be organized into categories such as  Beaches, Landmarks, Nature, Animals, Electronics, and Fashion.
+Turn your digital images into an organized Photo Gallery. Upload your folder of pictures to the Auto Photo Library, and with the click of a button, they will be categorized into Beaches, Landmarks, Animals, and more..
 
 
 ## Project Team
