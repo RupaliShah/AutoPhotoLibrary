@@ -19,3 +19,5 @@ The models were trained on FloydHub.
 ## Analysis
 
 The trained model was analyzed using a Confusion Matrix and a Classification Report.  
+
+[Refer to this link for Summary](https://github.com/RupaliShah/AutoPhotoLibrary/blob/Rupali/Image_Recognition_Summary.ipynb)
