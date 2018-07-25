@@ -1,6 +1,6 @@
 # Image Recognition
 
-This project uses Image Recognition to classify randomly selected images. ConvNet models, VGG19 and Xception, were trained using a new dataset. The trained model with the best result was used to  classify images. 
+This project uses Image Recognition to classify randomly selected images. ConvNet models, VGG19 and Xception, were trained using a new dataset. The trained model with the best result was used to  classify images.  
 
 ## Project Team
 
@@ -14,21 +14,8 @@ Images were downloaded from Google Images and classified into eight categories (
 
 ## Training Platform
 
-The models were trained on FloydHub.
- 
+The models were trained on FloydHub.  
+
 ## Analysis
 
-The trained model was analyzed using a Confusion Matrix and a Classification Report.
-
-<img src='img/conf_matrix_norm.png' height=200, width=300>
-
-<img src='img/classification_report.png' height=200, width=300>
-
-
-  
-
- 
-
- 
-
-
+The trained model was analyzed using a Confusion Matrix and a Classification Report.  
