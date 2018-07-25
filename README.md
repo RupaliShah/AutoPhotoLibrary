@@ -11,6 +11,7 @@ Turn your digital images into an organized Photo Gallery. Upload your folder of 
 * Debbie Chan
 * Swati Giri
 * Rupali Shah
+* Seohong Jung 
 
 ## Dataset
 * [ImageNet](http://www.image-net.org/)
