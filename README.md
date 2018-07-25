@@ -1,39 +1,24 @@
-# Auto Photo Library
+# Image Recognition
 
-<p align="center">
-  <img width="700" height="350" src="auto_photo_img.jpg">
-</p>
-
-Turn your digital images into an organized Photo Gallery. Upload your folder of pictures to the Auto Photo Library, and with the click of a button, they will be categorized into Beaches, Landmarks, Animals, and more..
-
+This project uses Image Recognition to classify randomly selected images. ConvNet models, VGG19 and Xception, were trained using a new dataset. The trained model with the best result was used to  classify images.  
 
 ## Project Team
+
 * Debbie Chan
-* Swati Giri
+* SeouHung Jung
 * Rupali Shah
 * Seohong Jung 
 
 ## Dataset
-* [ImageNet](http://www.image-net.org/)
-* [GoogleAPI OpenImages](https://storage.googleapis.com/openimages/web/download.html)
 
-## Testing Platform
-Floydhub
+Images were downloaded from Google Images and classified into eight categories (animals, beaches, birds, electronics, fashion, landmarks, nature,and people).
 
-## Architecture
-* Classifier - Convolutional Neural Network (CNN)
-* Library - Tensorflow,  Keras
-* Weights - ImageNet
-* Pre-trained models - VGG19, Xception
- 
+## Training Platform
+
+The models were trained on FloydHub.  
+
 ## Analysis
-* Confusion Matrix 
-* Model Accuracy Comparison  
 
-## Results
-* Flask to display app as webpages
-* Heroku to host the app
+The trained model was analyzed using a Confusion Matrix and a Classification Report.  
 
- 
-
-
+[Refer to this link for Summary](https://github.com/RupaliShah/AutoPhotoLibrary/blob/Rupali/Image_Recognition_Summary.ipynb)
