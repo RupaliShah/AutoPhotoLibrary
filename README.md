@@ -1,5 +1,7 @@
 # Image Recognition
 
+[![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
+
 This project uses Image Recognition to classify randomly selected images. ConvNet models, VGG19 and Xception, were trained using a new dataset. The trained model with the best result was used to  classify images.  
 
 ## Project Team
