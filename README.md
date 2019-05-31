@@ -7,7 +7,6 @@ This project uses Image Recognition to classify randomly selected images. ConvNe
 * Debbie Chan
 * SeouHung Jung
 * Rupali Shah
-* Seohong Jung 
 
 ## Dataset
 
